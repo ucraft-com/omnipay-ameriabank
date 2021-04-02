@@ -1,0 +1,19 @@
+{
+    "name": "ucraft-com/omnipay-ameriabank",
+    "description": "Ameria Bank Package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jora Shahbazyan",
+            "email": "jora.shahbazyan@betconstruct.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Omnipay\\Ameriabank\\": "src/"
+        }
+    },
+    "require": {
+        "omnipay/common": "^3"
+    }
+}
